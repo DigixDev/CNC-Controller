@@ -1,0 +1,102 @@
+############################
+parameter settings
+############################
+Machine type:                   7546
+System resolution:              0.001
+System pulse rate:              260000
+System movement speed:          4000
+System acceleration:            0.1
+Handwheel acceleration parameters: 0.05
+Acceleration limit angle:       20
+Minimum acceleration arc:       0.5
+Measuring the long distance of the knife:   60
+Z-direction position of tool gauge:  85.455
+Spindle tool:                   1
+High and low:                   "
+Number of workpieces:           0
+Axis label:                     X Y Z A C B ? ?
+Axis type:                      false false false false true false false false
+Axis direction:                 true false true false true false false false
+Coordinate axis X position:     0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000
+Coordinate axis Y position:     0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000
+Coordinate axis Z position:     0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000
+Coordinate axis U vector:       1.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 0.0000000
+Coordinate axis V vector:       0.0000000 1.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000
+Coordinate axis W vector:       0.0000000 0.0000000 1.0000000 0.0000000 1.0000000 1.0000000 0.0000000 0.0000000
+Output IO port:                 1 2 4 8 16 32 0 0
+Resolution:                     0.0050000 0.0050000 0.0050000 0.0050000 0.0050000 0.0070000 0.0000000 0.0000000
+Maximum moving speed:           4000.0000000 4000.0000000 4000.0000000 4000.0000000 4000.0000000 2000.0000000 0.0000000 0.0000000
+Acceleration of each axis:      0.1000000 0.1000000 0.1000000 0.1000000 0.1000000 0.0400000 0.0000000 0.0000000
+Initial speed of each axis:     0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 1.0000000 0.0000000 0.0000000
+Minimum position:               -85.0000000 -65.0000000 -119.0000000 -20.0000000 -8000.0000000 -8000.0000000 0.0000000 0.0000000
+Maximum position:               82.0000000 118.0000000 0.0000000 110.0000000 8000.0000000 8000.0000000 0.0000000 0.0000000
+Retreat speed:                  500.0000000 500.0000000 500.0000000 100.0000000 200.0000000 200.0000000 0.0000000 0.0000000
+Zero speed:                     100.0000000 100.0000000 100.0000000 100.0000000 100.0000000 100.0000000 0.0000000 0.0000000
+Home direction:                 1 1 1 1 1 0 0 0
+Backlash:                       0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000
+Feedback resolution:            0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000
+Feedback absolute value:        0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000
+Tracking error:                 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000
+Breakpoint location:            2.7219812 37.8990223 -1.5000000 89.7979969 1.0900078 0.0000000 0.0000000 0.0000000
+First reference point:          76.6119812 114.9340223 0.0000000 91.5179969 -53638.9099922 0.0000000 0.0000000 0.0000000
+Second reference point:         0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000 0.0000000
+Workpiece coordinate system 0:  0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+Workpiece coordinate system 1:  0.000 0.000 32.450 0.000 0.000 0.000 0.000 0.000
+Workpiece coordinate system 2:  0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+Workpiece coordinate system 3:  0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+Workpiece coordinate system 4:  0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+Workpiece coordinate system 5:  0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+Workpiece coordinate system 6:  0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+Tool 0:                         0.000 0.000 0.000 0.000 0.000
+Tool 1:                         0.000 0.000 -115.720 0.000 0.000
+Tool 2:                         0.000 0.000 0.000 0.000 0.000
+Tool 3:                         0.000 0.000 0.000 0.000 0.000
+Tool 4:                         0.000 0.000 0.000 0.000 0.000
+Tool 5:                         0.000 0.000 0.000 0.000 0.000
+Tool 6:                         0.000 0.000 0.000 0.000 0.000
+Tool 7:                         0.000 0.000 0.000 0.000 0.000
+Tool 8:                         0.000 0.000 0.000 0.000 0.000
+Tool 9:                         0.000 0.000 0.000 0.000 0.000
+Tool 10:                        0.000 0.000 0.000 0.000 0.000
+Tool 11:                        0.000 0.000 0.000 0.000 0.000
+Tool 12:                        0.000 0.000 0.000 0.000 0.000
+Tool change position 0A:        0 1.2e-007 0 1.2e-007 1.2e-007 1.2e-007 0 0
+Tool change position 0B:        0 1.2e-007 0 1.2e-007 1.2e-007 1.2e-007 0 0
+Tool change position 0C:        0 1.2e-007 0 1.2e-007 1.2e-007 1.2e-007 0 0
+Tool change position 1A:        0 1.2e-007 0 1.2e-007 1.2e-007 1.2e-007 0 0
+Tool change position 1B:        0 1.2e-007 0 1.2e-007 1.2e-007 1.2e-007 0 0
+Tool change position 1C:        0 1.2e-007 0 1.2e-007 1.2e-007 1.2e-007 0 0
+Tool change position 2A:        0 1.2e-007 0 1.2e-007 1.2e-007 1.2e-007 0 0
+Tool change position 2B:        0 1.2e-007 0 1.2e-007 1.2e-007 1.2e-007 0 0
+Tool change position 2C:        0 1.2e-007 0 1.2e-007 1.2e-007 1.2e-007 0 0
+Tool change position 3A:        0 1.2e-007 0 1.2e-007 1.2e-007 1.2e-007 0 0
+Tool change position 3B:        0 1.2e-007 0 1.2e-007 1.2e-007 1.2e-007 0 0
+Tool change position 3C:        0 1.2e-007 0 1.2e-007 1.2e-007 1.2e-007 0 0
+Tool change position 4A:        0 1.2e-007 0 1.2e-007 1.2e-007 1.2e-007 0 0
+Tool change position 4B:        0 1.2e-007 0 1.2e-007 1.2e-007 1.2e-007 0 0
+Tool change position 4C:        0 1.2e-007 0 1.2e-007 1.2e-007 1.2e-007 0 0
+Tool change position 5A:        0 1.2e-007 0 1.2e-007 1.2e-007 1.2e-007 0 0
+Tool change position 5B:        0 1.2e-007 0 1.2e-007 1.2e-007 1.2e-007 0 0
+Tool change position 5C:        0 1.2e-007 0 1.2e-007 1.2e-007 1.2e-007 0 0
+Tool change position 6A:        0 1.2e-007 0 1.2e-007 1.2e-007 1.2e-007 0 0
+Tool change position 6B:        0 1.2e-007 0 1.2e-007 1.2e-007 1.2e-007 0 0
+Tool change position 6C:        0 1.2e-007 0 1.2e-007 1.2e-007 1.2e-007 0 0
+Tool change position 7A:        0 1.2e-007 0 1.2e-007 1.2e-007 1.2e-007 0 0
+Tool change position 7B:        0 1.2e-007 0 1.2e-007 1.2e-007 1.2e-007 0 0
+Tool change position 7C:        0 1.2e-007 0 1.2e-007 1.2e-007 1.2e-007 0 0
+Tool change position 8A:        0 1.2e-007 0 1.2e-007 1.2e-007 1.2e-007 0 0
+Tool change position 8B:        0 1.2e-007 0 1.2e-007 1.2e-007 1.2e-007 0 0
+Tool change position 8C:        0 1.2e-007 0 1.2e-007 1.2e-007 1.2e-007 0 0
+Tool change position 9A:        0 1.2e-007 0 1.2e-007 1.2e-007 1.2e-007 0 0
+Tool change position 9B:        0 1.2e-007 0 1.2e-007 1.2e-007 1.2e-007 0 0
+Tool change position 9C:        0 1.2e-007 0 1.2e-007 1.2e-007 1.2e-007 0 0
+Tool change position 10A:       0 1.2e-007 0 1.2e-007 1.2e-007 1.2e-007 0 0
+Tool change position 10B:       0 1.2e-007 0 1.2e-007 1.2e-007 1.2e-007 0 0
+Tool change position 10C:       0 1.2e-007 0 1.2e-007 1.2e-007 1.2e-007 0 0
+Tool change position 11A:       0 1.2e-007 0 1.2e-007 1.2e-007 1.2e-007 0 0
+Tool change position 11B:       0 1.2e-007 0 1.2e-007 1.2e-007 1.2e-007 0 0
+Tool change position 11C:       0 1.2e-007 0 1.2e-007 1.2e-007 1.2e-007 0 0
+Tool change position 12A:       0 1.2e-007 0 1.2e-007 1.2e-007 1.2e-007 0 0
+Tool change position 12B:       0 1.2e-007 0 1.2e-007 1.2e-007 1.2e-007 0 0
+Tool change position 12C:       0 1.2e-007 0 1.2e-007 1.2e-007 1.2e-007 0 0
+############################
